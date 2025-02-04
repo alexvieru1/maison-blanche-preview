@@ -101,7 +101,8 @@ const FirstPage = () => {
         <p className="font-bold text-xl md:text-3xl text-center bg-clip-text text-transparent bg-gradient-to-b from-primary to-secondary py-4">
           Produse populare
         </p>
-        <Carousel opts={{ align: "start" }} className="w-full max-w-7xl p-4">
+        <Carousel opts={{ align: "start" }} className="w-full max-w-7xl p-4 overflow-hidden
+        ">
           <CarouselContent>
             {products.map((product) => (
               <CarouselItem
