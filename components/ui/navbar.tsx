@@ -81,21 +81,24 @@ export default function Navbar() {
       name: "Vaza Ceramica",
       price: "120 RON",
       quantity: 1,
-      image: "https://scontent.fcnd1-1.fna.fbcdn.net/v/t39.30808-6/470197709_122205364208225139_7685220243907591974_n.jpg?stp=cp6_dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=mbQ_I5iWUWkQ7kNvgEusH8l&_nc_oc=Adirlv-2EKEOE9tC3i4ayYFnB7n9mPPe8mH8ep3fim9aatfymAKS4dwi6UnzBewoA6w&_nc_zt=23&_nc_ht=scontent.fcnd1-1.fna&_nc_gid=AXRC62Jqzn7CsKJaT_iN4La&oh=00_AYCPzoqQiBOXXrhJpBfYOet_4-lc86Fw9qR8WM0qtpfAyQ&oe=67A7DA8F",
+      image:
+      "/images/ren.jpg"
     },
     {
       id: 2,
       name: "Set Pahare Sticla",
       price: "250 RON",
       quantity: 2,
-      image: "https://scontent.fcnd1-1.fna.fbcdn.net/v/t39.30808-6/470197709_122205364208225139_7685220243907591974_n.jpg?stp=cp6_dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=mbQ_I5iWUWkQ7kNvgEusH8l&_nc_oc=Adirlv-2EKEOE9tC3i4ayYFnB7n9mPPe8mH8ep3fim9aatfymAKS4dwi6UnzBewoA6w&_nc_zt=23&_nc_ht=scontent.fcnd1-1.fna&_nc_gid=AXRC62Jqzn7CsKJaT_iN4La&oh=00_AYCPzoqQiBOXXrhJpBfYOet_4-lc86Fw9qR8WM0qtpfAyQ&oe=67A7DA8F",
+      image:
+      "/images/ren.jpg"
     },
     {
       id: 3,
       name: "Tablou Handmade",
       price: "300 RON",
       quantity: 1,
-      image: "https://scontent.fcnd1-1.fna.fbcdn.net/v/t39.30808-6/470197709_122205364208225139_7685220243907591974_n.jpg?stp=cp6_dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=mbQ_I5iWUWkQ7kNvgEusH8l&_nc_oc=Adirlv-2EKEOE9tC3i4ayYFnB7n9mPPe8mH8ep3fim9aatfymAKS4dwi6UnzBewoA6w&_nc_zt=23&_nc_ht=scontent.fcnd1-1.fna&_nc_gid=AXRC62Jqzn7CsKJaT_iN4La&oh=00_AYCPzoqQiBOXXrhJpBfYOet_4-lc86Fw9qR8WM0qtpfAyQ&oe=67A7DA8F",
+      image:
+      "/images/ren.jpg"
     },
   ];
 
