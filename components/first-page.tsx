@@ -85,7 +85,7 @@ const FirstPage = () => {
 
       {/* Produse populare */}
 
-      <div className="flex flex-col justify-center items-center my-2 md:my-10 relative">
+      <div className="flex flex-col justify-center items-center my-6 md:my-10 relative">
         <p className="font-bold text-xl md:text-3xl text-center bg-clip-text text-transparent bg-gradient-to-b from-primary to-secondary py-4">
           Produse populare
         </p>
@@ -127,7 +127,7 @@ const FirstPage = () => {
             </CarouselContent>
 
             {/* Positioned Navigation Buttons */}
-            <div className="absolute bottom-[-2.5rem] left-1/2 transform -translate-x-1/2 flex gap-4">
+            <div className="absolute bottom-[-1rem] left-1/2 transform -translate-x-1/2 flex gap-4">
               <CarouselPrevious className="bg-primary text-white hover:bg-secondary w-12 h-12 rounded-full shadow-md" />
               <CarouselNext className="bg-primary text-white hover:bg-secondary w-12 h-12 rounded-full shadow-md" />
             </div>
@@ -137,7 +137,7 @@ const FirstPage = () => {
 
       {/* Produse noi */}
 
-      <div className="flex flex-col justify-center items-center my-2 md:my-10 relative">
+      <div className="flex flex-col justify-center items-center my-6 md:my-10 relative">
         <p className="font-bold text-xl md:text-3xl text-center bg-clip-text text-transparent bg-gradient-to-b from-primary to-secondary py-4">
           Produse Noi
         </p>
@@ -179,7 +179,7 @@ const FirstPage = () => {
             </CarouselContent>
 
             {/* Positioned Navigation Buttons */}
-            <div className="absolute bottom-[-2.5rem] left-1/2 transform -translate-x-1/2 flex gap-4">
+            <div className="absolute bottom-[-1rem] left-1/2 transform -translate-x-1/2 flex gap-4">
               <CarouselPrevious className="bg-primary text-white hover:bg-secondary w-12 h-12 rounded-full shadow-md" />
               <CarouselNext className="bg-primary text-white hover:bg-secondary w-12 h-12 rounded-full shadow-md" />
             </div>
@@ -188,7 +188,7 @@ const FirstPage = () => {
       </div>
 
       {/* Despre noi */}
-      <div className="flex flex-col justify-center items-center text-center my-2 md:my-4 px-6">
+      <div className="flex flex-col justify-center items-center text-center my-10 md:my-16 px-6">
         <p className="font-bold text-xl md:text-3xl text-center bg-clip-text text-transparent bg-gradient-to-b from-primary to-secondary py-4">
           Despre Maison Blanche
         </p>
